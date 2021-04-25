@@ -1,0 +1,28 @@
+_repo: La-vita-di-Cola-di-Rienzo_65073
+_version: 0.0.1
+creator:
+  author:
+    agent_name: D'Annunzio, Gabriele
+    aliases:
+    - Montenevoso, Gabriele d’Annunzio, principe di
+    - Annunzio, Gabriele d'
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '9030'
+    url: http://www.gutenberg.org/2009/agents/9030
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gabriele_D'Annunzio
+    - https://it.wikipedia.org/wiki/Gabriele_D%27Annunzio
+description: ''
+gutenberg_issued: '2021-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65073'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La vita di Cola di Rienzo
+url: http://www.gutenberg.org/ebooks/65073
